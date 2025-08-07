@@ -1,2 +1,2 @@
-# bhimmaya
-My personal project and learning collection  Projects and resources related to web dev, ML &amp; React  Developer log – React, Node.js, and AI experiments  Code lab – full-stack apps, mini projects &amp; more
+🔗 [500+ AI Projects Repository](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
+
